@@ -12,6 +12,7 @@ After installing the required tools, you will need to ensure that your computer 
 * Install [Packer](https://www.packer.io/downloads.html)
 * Fork this repo to your own account
 * Clone the forked repo to your local machine using this command: `git clone http://github.com/<account-name>/devops-intro-project devops`, replacing `<account-name>` with your GitHub username.
+* Setup temp path: Run `export PATH=$PATH:/usr/local/folderName`
 
 ## Part I: Building a box with Packer
 
